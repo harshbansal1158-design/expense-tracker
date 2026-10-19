@@ -4,7 +4,7 @@ import streamlit as st
 if "expenses" not in st.session_state:
     st.session_state.expenses = []
 
-st.title("My Expense Tracker")
+st.title("My Expense Tracker 💰")
 
 category = st.selectbox(
     "Choose an expense category",
