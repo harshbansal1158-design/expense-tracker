@@ -1,0 +1,4 @@
+Food: 200
+Travel: 80
+Stationery: 40
+
